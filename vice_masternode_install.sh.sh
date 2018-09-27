@@ -17,7 +17,7 @@ CONF_FILE="/root/.vice/vice.conf"
 TMP_FOLDER=$(mktemp -d)
 RPC_USER="vice-Admin"
 MN_PORT=42424
-RPC_PORT=19647
+RPC_PORT=42423
 CRONTAB_LINE="@reboot sleep 60 && /root/vice/src/viced -daemon"
 BINARIES="https://github.com/viceplatform/vice/releases/download/v2.1.2.%F0%9F%8D%8F/ubuntu_16.04_daemon.tar.gz"
 
@@ -117,8 +117,8 @@ function build_project()
   mkdir $PROJECT_FOLDER/src
   cd $PROJECT_FOLDER/src
   wget $BINARIES
-  tar -zxvf Lin*.tar.gz
-  rm *.tar.gz
+  unzip Lin*.zip
+  rm *.zip
   chmod +x *
   
   if [ -f $DAEMON_BINARY_PATH ]; then
