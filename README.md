@@ -13,7 +13,7 @@ Let's get started!
 * 1.4 Type `masternode genkey` - copy the generated key and exit the console<br />
 Save the private key in a text file for future use.<br>
 * 1.5 Go to `receiving wallets` found in `files` - create masternode wallet, by creating a new wallet, called `masternode1` <br />
-![Imgur](https://i.imgur.com/BsM6qhH.png)
+![Imgur](https://i.imgur.com/TfolgPz.png)
 Copy the address by right-clicking and selecting "Copy Address"<br>
 * 1.6 Send EXACTLY 5,000 coins to `masternode1` wallet by pasting the copied address.<br>
 Note that this has to be sent in **ONE transaction**. <br />
