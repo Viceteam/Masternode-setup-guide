@@ -19,7 +19,7 @@ RPC_USER="vice-Admin"
 MN_PORT=42424
 RPC_PORT=42423
 CRONTAB_LINE="@reboot sleep 60 && /root/vice/src/viced -daemon"
-BINARIES="https://github.com/viceplatform/vice/releases/download/v2.1.2.%F0%9F%8D%8F/ubuntu_16.04_daemon.tar.gz"
+BINARIES="https://github.com/viceplatform/Masternode-setup-guide/releases/download/v2.1.2/Vice-v2.1.2.-ubuntu_server-16.04.zip"
 
 function checks() 
 {
