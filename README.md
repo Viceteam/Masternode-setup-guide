@@ -3,7 +3,7 @@
 > In this guide we will install a vice masternode the EASY way :)<br><br>
 Let's get started!
 
-<b>Disclaimer, you will get the best results if you do this in one sitting. There is a chance are that the 10,000 coins masternode collateral will stake and split the transaction. If that happens you will have to do step 1.6 again.</b>
+<b>Disclaimer, you will get the best results if you do this in one sitting. There is a chance are that the 5,000 coins masternode collateral will stake and split the transaction. If that happens you will have to do step 1.6 again.</b>
 
 ## 1. Initial wallet setup
 * 1.1 Download the [latest wallet](https://github.com/viceplatform/vice/releases) for your operating system which is available in our wallets repository.<br>
@@ -15,7 +15,7 @@ Save the private key in a text file for future use.<br>
 * 1.5 Go to `receiving wallets` found in `files` - create masternode wallet, by creating a new wallet, called `masternode1` <br />
 ![Imgur](https://i.imgur.com/BsM6qhH.png)
 Copy the address by right-clicking and selecting "Copy Address"<br>
-* 1.6 Send EXACTLY 10,000 coins to `masternode1` wallet by pasting the copied address.<br>
+* 1.6 Send EXACTLY 5,000 coins to `masternode1` wallet by pasting the copied address.<br>
 Note that this has to be sent in **ONE transaction**. <br />
 * 1.7 Go back to `debug console` and type `masternode outputs` <br />
 * 1.8 Copy the transaction id and output id
@@ -128,7 +128,7 @@ To verify that the masternode is running on the vps:
 <br>
 If you followed these steps correctly your vice masternode should be running right now!<br>
 
-> 🎉🎉🎉🎉🎉🎉 !!!!! Congratulations, begin earning rewards for supporting the $XN network! !!!!! 🎉🎉🎉🎉🎉🎉<br>
+> 🎉🎉🎉🎉🎉🎉 !!!!! Congratulations, begin earning rewards for supporting the $VICE network! !!!!! 🎉🎉🎉🎉🎉🎉<br>
 
 After some time the rewards will be distributed in your wallet.
 
