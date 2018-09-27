@@ -9,7 +9,7 @@ Let's get started!
 * 1.1 Download the [latest wallet](https://github.com/viceplatform/vice/releases) for your operating system which is available in our wallets repository.<br>
 * 1.2 Launch the wallet and allow it to synchronize <br />
 * 1.3 Click on `debug console` found in `tools`
-![Imgur](https://i.imgur.com/OXxgGIA.png)
+![Imgur](https://i.imgur.com/cIWJUpV.png1)
 * 1.4 Type `masternode genkey` - copy the generated key and exit the console<br />
 Save the private key in a text file for future use.<br>
 * 1.5 Go to `receiving wallets` found in `files` - create masternode wallet, by creating a new wallet, called `masternode1` <br />
