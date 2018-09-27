@@ -75,9 +75,9 @@ Remember that you can copy the text below and paste it in to the server via RIGH
 * Type: `wget https://raw.github.com/viceplatform/masternode-script-vice/master/vice_masternode_install.sh` ENTER
 * Type: `chmod +x vice_masternode_install.sh` ENTER
 * Type: `.vice_masternode_install.sh` ENTER
-![Imgur](https://i.imgur.com/rILeKJU.png)<br>
+![Imgur](https://i.imgur.com/BwegDU6.png)<br>
 * Type: `y` ENTER<br>
-![Imgur](https://i.imgur.com/J9xMkku.png)<br>
+![Imgur](https://i.imgur.com/AqHRyDk.png)<br>
 * Type or copy your masternode private key you created before and saved in that text file.  ENTER
 * Now get yourself a coffee ☕, this takes approximately 30 minutes.
 ![Imgur](https://i.imgur.com/gQFsPJv.png)<br>
@@ -117,7 +117,7 @@ MN01 124.842.07.0:42424 119cCx5YeA519YkTzun4EptdexAo3RvQXaPdkP 838328ce57cc8b168
 4.8 Restart the wallet<br>
 4.9 Go to your wallet and go to the masternode page.<br>
 * Select the masternode and press: "Start alias".<br>
-![Imgur](https://i.imgur.com/jXDVZqO.png)<br>
+![Imgur](https://i.imgur.com/nkXE0P7.png)<br>
 
 To verify that the masternode is running on the vps:
 * Type: `cd ~/vice/src`  ENTER
