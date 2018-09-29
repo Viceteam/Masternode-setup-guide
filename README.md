@@ -1,4 +1,4 @@
-# ![Imgur](https://i.imgur.com/m2SA3ls.png)VICE Masternode setup guide
+# ![Imgur](https://i.imgur.com/m2SA3ls.png)Masternode setup guide
 
 > In this guide we will install a vice masternode the EASY way :)<br><br>
 Let's get started!
