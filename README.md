@@ -1,4 +1,4 @@
-# ![Imgur](https://i.imgur.com/m2SA3ls.png)Masternode setup guide
+# ![Imgur](https://i.imgur.com/m2SA3ls.png)Masternode setup guide 
 
 > In this guide we will install a vice masternode the EASY way :)<br><br>
 Let's get started!
@@ -152,4 +152,4 @@ Please look at this guide http://patheyman.com/masternode-secure/ for more info.
 
 # 7. Questions?
 
-If you have a problem or a question you can find us in the #support channel on our Discord.
+If you have a problem or a question you can find us in the #support channel on our Discord. [Here](https://discord.viceplatform.org)
