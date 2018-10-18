@@ -9,11 +9,11 @@ Let's get started!
 * 1.1 Download the [latest wallet](https://github.com/viceplatform/vice/releases) for your operating system which is available in our wallets repository.<br>
 * 1.2 Launch the wallet and allow it to synchronize <br />
 * 1.3 Click on `debug console` found in `tools`
-![Imgur](https://i.imgur.com/cIWJUpV.png1)
+![Imgur](https://i.imgur.com/4bkm73p.png)
 * 1.4 Type `masternode genkey` - copy the generated key and exit the console<br />
 Save the private key in a text file for future use.<br>
 * 1.5 Go to `receiving wallets` found in `files` - create masternode wallet, by creating a new wallet, called `masternode1` <br />
-![Imgur](https://i.imgur.com/TfolgPz.png)
+![Imgur](https://i.imgur.com/mhufASk.png)
 Copy the address by right-clicking and selecting "Copy Address"<br>
 * 1.6 Send EXACTLY 5,000 coins to `masternode1` wallet by pasting the copied address.<br>
 Note that this has to be sent in **ONE transaction**. <br />
@@ -22,7 +22,7 @@ Note that this has to be sent in **ONE transaction**. <br />
 Save the output in the text file for future use.
 
 ## 2. Get a VPS ( masternode server )
-We recommend renting a VPS with www.vultr.com because they are fast and cheap.
+We recommend renting a VPS with [www.vultr.com](https://www.vultr.com/?ref=7565312) because they are fast and cheap.
 
 * 2.1 Create an account:<br>
 ![Create account](https://i.imgur.com/ingiJYX.png)<br>
